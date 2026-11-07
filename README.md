@@ -66,6 +66,8 @@ I'm passionate about building interactive experiences, developing software and e
 
 A top-down city defence game developed for the Qualys Games Programming challenge at Swinburne.
 
+This is the prototype for the 3D version of the game, I implemented the story mode, 3rd person perspective and player experience was the priority to our team, I have attached Qualys feedback, gameplay, link to the repository and the Itch.io in the link below!
+
 Built around the concept of **Detect → Validate → Remediate**, players must identify incoming threats, determine which are dangerous and protect the city.
 
 **My contributions:**
