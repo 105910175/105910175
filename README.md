@@ -108,7 +108,7 @@ The prototype was designed to support interchangeable spoons, forks and knives i
 
 ### 📚 Currently Learning
 
-- C++ programming and advanced game development.
+- C++ programming and advanced game development. 
 - Unreal Engine gameplay systems and AI.
 - Concurrent and parallel programming.
 - Cloud computing architecture.
