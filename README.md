@@ -77,7 +77,7 @@ Built around the concept of **Detect → Validate → Remediate**, players must 
 
 🔗 [Watch Gameplay](https://lnkd.in/gb5afTus)
 
-🔗 [GitHub Repository](https://github.com/105910175/ZeroDaySurvival](https://github.com/105910175/ZeroDay-LastLine2D))
+🔗 [GitHub Repository](https://github.com/105910175/ZeroDay-LastLine2D)
 
 🔗 [Play on Itch.io](https://zerodayz.itch.io/zero-day-last-line)
 
