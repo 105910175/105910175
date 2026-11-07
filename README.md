@@ -76,8 +76,10 @@ Built around the concept of **Detect → Validate → Remediate**, players must 
 - Game demonstration and presentation.
 
 🔗 [Watch Gameplay](https://lnkd.in/gb5afTus)
-🔗 [Github.com](https://lnkd.in/gb5afTus](https://github.com/105910175/ZeroDaySurvival)
-🔗 [Itch.io](https://zerodayz.itch.io/zero-day-last-line)
+
+🔗 [GitHub Repository](https://github.com/105910175/ZeroDaySurvival)
+
+🔗 [Play on Itch.io](https://zerodayz.itch.io/zero-day-last-line)
 
 
 ---
