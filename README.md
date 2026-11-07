@@ -59,7 +59,7 @@ I'm passionate about building interactive experiences, developing software and e
 
 ### 🎮 Featured Projects
 
-#### 🛡️ Zero Day: Last Line
+#### 🛡️ Zero Day: Last Line 2D Prototype
 **Unreal Engine 5.8 | C++ | Blueprints**
 
 A top-down city defence game developed for the Qualys Games Programming challenge at Swinburne.
