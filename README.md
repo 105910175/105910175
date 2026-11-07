@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+games+with+Unreal+Engine+5;Exploring+C%2B%2B+and+Software+Development;Interested+in+AI+and+Emerging+Technologies;Turning+ideas+into+playable+experiences" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+games+with+Unreal+Engine+5;Exploring+C%2B%2B+and+Software+Development;Interested+in+AI+and+Emerging+Technologies;Turning+ideas+into+playable+experiences; Majoring+In+Artificial+Intelligence+and+Software+Development;" />
 </p>
 
 ---
