@@ -32,7 +32,7 @@ I'm passionate about building interactive experiences, developing software and e
 **Programming Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,ruby" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,ruby,java,lua,html,cs" />
 </p>
 
 **Game Development**
