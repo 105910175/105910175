@@ -81,6 +81,10 @@ Built around the concept of **Detect → Validate → Remediate**, players must 
 
 🔗 [Play on Itch.io](https://zerodayz.itch.io/zero-day-last-line)
 
+🔗 [Qualys Feedback](https://github.com/105910175/ZeroDay-LastLine2D/blob/main/Qualys_Feedback_Form.pdf)
+
+
+
 
 ---
 
